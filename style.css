@@ -1,0 +1,99 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-left: 0;
+}
+h2{
+    font-size: 30px;
+}
+.change{
+    padding-left: 6%;
+    padding-right: 5%;
+    padding-top: 1%;
+    width:40%;
+    height: 50%;
+    font-size: 20px;
+}
+#anki{
+    color:orangered;
+}
+.top{
+    text-decoration: orangered;
+    background-image: linear-gradient(orange,tomato);
+    padding:10px 20px 5px;
+    margin: 10% 2% 5%;
+    border-radius: 5%;
+}
+.banner{
+    display: flex;
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+#nice{
+    width:80%;
+    height:100%;
+    padding-left: 150px;
+}
+.big{
+    width:30%;
+    float: left;
+    margin-left: 5%;
+    background-position: right;
+    padding-left: 50%;
+    padding-top: 15%;
+    padding-right: 15%;
+    
+}
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-blog{
+    background-image: url(dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.width{
+     
+    width:100%;
+    position: right;
+    margin-left: 15%;
+    font-size: 20px;
+}
+.anki{
+    
+    padding-left: 5%;
+    width:40%;
+    padding-right: 5%;
+   box-shadow: 10px 20px 20px grey;
+    border-image-slice:1 ;
+    margin-top: 5%;
+    margin-right: 5%;
+    
+    }
+#raw{
+    display: flex;
+}
+.area{
+    background-image:url(exp-bg.png) ;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#web-dev{
+    border-left:5px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+#full-stack{
+    border-left:6px solid;
+    border-image: linear-gradient(orange,yellow);
+    border-image-slice: 1;
+
+}
+footer p{
+    text-align: center;
+    color: indigo;
+    font-size: 20px;
+}
+    
+    
